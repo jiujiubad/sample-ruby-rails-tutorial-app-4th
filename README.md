@@ -1,6 +1,14 @@
-# Ruby on Rails Tutorial sample application
+# 《Ruby on Rails Tutorial》第四版 示例代码
 
 This is the reference implementation of the sample application for the 4th edition of [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://www.railstutorial.org/) by [Michael Hartl](http://www.michaelhartl.com/).
+
+## 主要模块
+
+1、定制登录注册模块
+
+2、微博
+
+3、Minitest 测试（第三版用的是 Rspec）
 
 ## Help page
 
